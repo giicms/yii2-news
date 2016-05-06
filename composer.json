@@ -1,7 +1,7 @@
 {    
-    "name": "giicms/yii2-rbac",
-    "description": "Yii2 Rbac",
-    "homepage": "https://github.com/giicms/yii2-rbac",
+    "name": "giicms/yii2-news",
+    "description": "Yii2 News",
+    "homepage": "https://github.com/giicms/yii2-news",
     "keywords": ["yii2","rbac"],
     "license": "MIT",
     "minimum-stability": "beta",
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "giicms\\rbac\\": ""
+            "giicms\\news\\": ""
         }
     }
 }
