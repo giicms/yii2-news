@@ -1,0 +1,17 @@
+{    
+    "name": "giicms/yii2-rbac",
+    "description": "Yii2 Rbac",
+    "homepage": "https://github.com/giicms/yii2-rbac",
+    "keywords": ["yii2","rbac"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "giicms\\rbac\\": ""
+        }
+    }
+}
